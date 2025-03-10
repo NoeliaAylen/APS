@@ -40,5 +40,10 @@ plt.figure(3)
 plt.plot(t,y)
 plt.show
 
+######
+
+
+
+
 
 
